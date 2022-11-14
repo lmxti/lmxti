@@ -9,7 +9,7 @@
   <li align>
    <b>Name:</b> Matias</li>
   <li>
-  <b>Hobbys:</b> VideoGames, Web Development, Music.
+  <b>Hobbys:</b> VideoGames and Web Development
   </li>
   <li>
   <b>Studying@: </b> Universidad del Bío-Bío
