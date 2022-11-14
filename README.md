@@ -1,4 +1,5 @@
-![giphy](https://user-images.githubusercontent.com/98131860/201748770-67435f85-5b23-4117-bf2c-ca0ee506ae31.gif)
+![9277e1f3f0c1f1b62dadc365b8ae28f5](https://user-images.githubusercontent.com/98131860/201749551-c3cf6bc6-0eb6-450c-afdd-384e43acb0ab.jpg)
+
 
 ### Hi there 👋
 
