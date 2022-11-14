@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![soulja-boy-pepe](https://user-images.githubusercontent.com/98131860/201747986-ec7f071a-6578-4edc-ba2e-bc7988674b4e.gif)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mxti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mxti) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_mvsmm) 
