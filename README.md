@@ -1,8 +1,26 @@
-<h1 align="center">Hi 👋, I'm Matias</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Matias</h1>
+<h3 align="center">A passionate frontend developer from Chile, Concepcion</h3>
+
+<div align="justify">
+    <h1> About me </h1>
+    <img src="https://i.giphy.com/media/ygwYWMzryjq2ka87QY/giphy.webp" align="right" width="250" height="250">
+<br><br><br>
+ <blockquote>
+  <li align>
+   <b>Name:</b> Matias</li>
+  <li>
+  <b>Hobbys:</b> VideoGames, Web Development, Music.
+  </li>
+  <li>
+  <b>Studying@: </b> Universidad del Bío-Bío
+  </li>
+ </blockquote>
+
+</div>
 
 
-<h1 align="center"> Learning Path </h1>
+<br><br><br>
+<h1 align="center"> 🛠 Learning Path </h1>
 <div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -38,25 +56,21 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
          alt="git" width="40" height="40"/> 
   </a>
-  
-  <h3 align="center">Connect with me:</h3>
-  
-  <p align="left">
-  
-  <div align="center">
-    
-<p align="center">
-<a href="https://twitter.com/_mvsmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mvsmm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mxti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mxti" height="30" width="40" /></a>
-<a href="https://instagram.com/_mxti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mxti" height="30" width="40" /></a>
-</p>
-  
-</p>
-  
- 
-  
-  
-      
+</div>
 
+
+<div align= "center">
+  <h2>Connect with me:</h2>
   
+<p align= "center">
+      <a href="https://twitter.com/_mvsmm" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+         alt="_mvsmm" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/mxti" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="mxti" height="30" width="40" /></a>
+      <a href="https://instagram.com/_mxti" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"                    alt="_mxti" height="30" width="40" /></a>
+  
+  </p>
 </div>
