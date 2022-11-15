@@ -1,8 +1,11 @@
+![smalusion-moonbannerscroll2](https://user-images.githubusercontent.com/98131860/201795114-a80f3306-adcb-43a0-b28f-b5818c3ae887.gif)
+
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Matias</h1>
 <h3 align="center">A passionate frontend developer from Chile, Concepcion</h3>
 
 <div align="justify">
-    <h1> About me </h1>
+    <h1 align= "center"> About me </h1>
     <img src="https://i.giphy.com/media/ygwYWMzryjq2ka87QY/giphy.webp" align="right" width="250" height="250">
 <br><br><br>
  <blockquote>
