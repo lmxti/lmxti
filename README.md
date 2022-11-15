@@ -6,7 +6,7 @@
 
 <div align="justify">
     <h1 align= "center"> About me </h1>
-    <img src="https://i.giphy.com/media/ygwYWMzryjq2ka87QY/giphy.webp" align="right" width="250" height="250">
+    <img src="https://i.giphy.com/media/ygwYWMzryjq2ka87QY/giphy.webp" align="right" width="220" height="220">
 <br><br><br>
  <blockquote>
   <li align>
