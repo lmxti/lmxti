@@ -23,7 +23,7 @@
 
 
 <br><br><br>
-<h1 align="center"> 🛠 Learning Path </h1>
+<h2 align="center"> 🛠 Learning Path </h2>
 <div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -63,7 +63,7 @@
 
 
 <div align= "center">
-  <h2>Connect with me:</h2>
+  <h2>🔗 Connect with me</h2>
   
 <p align= "center">
       <a href="https://twitter.com/_mvsmm" target="blank">
