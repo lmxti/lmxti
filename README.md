@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Chile, Concepcion</h3>
 
 <div align="justify">
-    <h1 align= "center"> About me </h1>
+    <h2 align= "center"> 🌩 About me </h2>
     <img src="https://i.giphy.com/media/ygwYWMzryjq2ka87QY/giphy.webp" align="right" width="220" height="220">
 <br><br><br>
  <blockquote>
