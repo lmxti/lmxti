@@ -19,9 +19,18 @@
 
 <br><br><br>
 <h2 align="center"> 🛠 Learning Roadmap </h2>
-## 🛠 Tech Stack
+<h4 align="center"> Tech Stack </h4>
+
+<!-- Primera fila de iconos -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwindcss,bootstrap,js,ts,nodejs,expressjs,python,mysql,postgres,mongodb,react,nextjs,vue,astro&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwindcss,bootstrap,js,ts&theme=dark" />
+  </a>
+</p>
+
+<!-- Segunda fila de iconos -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,python,mysql,postgres,mongodb,react,nextjs,vue,astro&theme=dark" />
   </a>
 </p>
