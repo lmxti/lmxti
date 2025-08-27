@@ -19,7 +19,9 @@
 
 <br><br><br>
 <h2 align="center"> 🛠 Learning Roadmap </h2>
-<div align="center">
-    ## 🛠️ Tech Stack
-    [![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwindcss,bootstrap,js,ts,nodejs,expressjs,python,mysql,postgres,mongodb,react,nextjs,vue,astro&theme=dark)](https://skillicons.dev)
-</div>
+## 🛠 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwindcss,bootstrap,js,ts,nodejs,expressjs,python,mysql,postgres,mongodb,react,nextjs,vue,astro&theme=dark" />
+  </a>
+</p>
